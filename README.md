@@ -33,8 +33,7 @@ npm install
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Pull requests are welcome. If you have an idea for a new feature or want to fix a bug, please open an issue or submit a pull request.
 
 ### Creating A Pull Request
 
