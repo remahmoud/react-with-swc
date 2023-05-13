@@ -16,7 +16,8 @@ then install dependencies
 
 ```bash
 cd new-name
-
+```
+```bash
 ## with yarn
 yarn
 
