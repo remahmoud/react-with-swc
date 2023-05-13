@@ -5,4 +5,21 @@
 
 react app with webpack & swc loader and typescript
 
+## Usage
 
+clone this repo 
+
+```bash
+git clone https://github.com/remahmoud/react-with-swc new-name
+```
+then install dependencies
+
+```bash
+cd new-name
+
+## with yarn
+yarn
+
+## with npm
+npm install
+```
