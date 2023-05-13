@@ -1,5 +1,5 @@
 {
-    "name": "swc-react",
+    "name": "react-with-swc",
     "version": "1.0.0",
     "description": "react app with webpack & swc compiler",
     "main": "index.js",
