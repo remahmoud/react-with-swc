@@ -5,6 +5,12 @@
             "tsx": true,
             "dynamicImport": true
         },
-        "target": "esnext"
+        "target": "esnext",
+        "transform": {
+            "react": {
+                "pragma": "React.createElement",
+                "pragmaFrag": "React.Fragment"
+            }
+        }
     }
 }
